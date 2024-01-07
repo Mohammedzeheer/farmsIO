@@ -1,0 +1,10 @@
+{
+    "tables": {
+      "country": "/api/country",
+      "state": "/api/state",
+      "city": "/api/city",
+      "block": "/api/block",
+      "village": "/api/village"
+    }
+  }
+  
